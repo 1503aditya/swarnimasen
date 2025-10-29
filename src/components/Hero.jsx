@@ -10,8 +10,7 @@ export default function Hero() {
         transition={{ duration: 0.7 }}
       >
         <h1 className="text-4xl md:text-5xl font-serif leading-tight ">
-          Swarnima Sen —{" "}
-          <span className="text-brand-50 text-blue-500">Content Writer</span>
+          Swarnima Sen — <span className="text-brand-500">Content Writer</span>
         </h1>
         <p className="mt-4 text-slate-600 dark:text-slate-300 max-w-lg">
           I craft clear, persuasive narratives that turn ideas into impact.
@@ -21,7 +20,7 @@ export default function Hero() {
         <div className="mt-6 flex gap-3">
           <a
             href="#portfolio"
-            className="px-4 py-2 bg-blue-500 hover:bg-blue-600 text-white rounded-md"
+            className="px-4 py-2 bg-brand-500 hover:bg-brand-600 text-white rounded-md"
           >
             View Work
           </a>

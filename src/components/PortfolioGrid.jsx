@@ -35,7 +35,7 @@ export default function PortfolioGrid() {
                   href={item.pdf}
                   target="_blank"
                   rel="noreferrer"
-                  className="text-sm underline"
+                  className="text-brand-500 text-sm underline"
                 >
                   Download PDF
                 </a>
